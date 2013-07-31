@@ -1,9 +1,9 @@
 workspaces
 ==========
 
-Workspaces for Windows with AHK and Batch.
-
 Workspaces lets you create temporary folders to work in, that can then be archived or deleted easily. 
+
+Workspaces for Windows with AHK and Batch.
 
 Usage
 -----
