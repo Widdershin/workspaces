@@ -3,7 +3,7 @@ workspaces
 
 Workspaces lets you create temporary folders to work in, that can then be archived or deleted easily. 
 
-Workspaces for Windows with AHK and Batch.
+Workspaces runs on Windows, using AHK and Batch Scripts.
 
 Usage
 -----
