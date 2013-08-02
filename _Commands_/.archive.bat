@@ -7,4 +7,4 @@ TASKKILL /F /FI "WINDOWTITLE eq %a%" /IM explorer.exe
 CD ..
 set d=%~dp0
 set d=%d:~0, -1%
-move "%d%" _Archived_\
+move "%d%" ..\_Archived_\
